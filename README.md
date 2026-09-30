@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dongjun 👋
 
-<!--
-**MDJ0126/MDJ0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity Client Programmer with 8 years of game development.
 
-Here are some ideas to get you started:
+I've worked on projects from early development to global launch and live service, covering gameplay, UI systems, scene transitions, resource management, data pipelines, and build automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+
+`Unity` `C#` `Addressables` `UniTask` `uGUI` `NGUI` `TCP` `HTTP` `Jenkins`
+
+## 🔗 Portfolio
+
+https://moondongjun.pages.dev/
